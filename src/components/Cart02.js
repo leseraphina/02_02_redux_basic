@@ -1,5 +1,5 @@
 import { useSelector ,useDispatch} from "react-redux";
-import { changeCouter } from "../store";
+import { changeCouter } from "../store02";
 // react,react-dom
 
 function Cart2(){

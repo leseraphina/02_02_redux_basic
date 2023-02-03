@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Provider } from "react-redux";
-import store from './store';
+import store from './store04';
 import Home from './components/Home';
 import Cart01 from './components/Cart01';
 import Cart02 from './components/Cart02';
